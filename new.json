@@ -1,5 +1,9 @@
 {
   "name": "Nadegda",
   "surname": "Podyacheva",
-  "pets": 2
+  "pets": 2,
+  "pet_names": [
+    "Syava",
+    "Janya"
+  ]
 }
