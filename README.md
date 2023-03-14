@@ -1,6 +1,6 @@
 # JSON
 
-## HW during Vadim Ksendzov course
+## :small_blue_diamond:HW during Vadim Ksendzov course:small_blue_diamond:
 
 1. Создать внешний репозиторий c названием JSON.
 2. Клонировать репозиторий JSON на локальный компьютер.
